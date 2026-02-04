@@ -1,1 +1,6 @@
-
+{
+  "licenses": [
+    { "name": "edwawrd", "key": "HKWYS7-9FJJS-2382HS", "hwid": "a1439d28-c210-4627-908b-d011ee969a9c" },
+    { "name": "alice", "key": "ABC-123-KEY", "hwid": "" }
+  ]
+}
